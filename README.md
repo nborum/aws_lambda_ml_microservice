@@ -20,7 +20,7 @@ Prerequesites
 ------------
 - [sudo] pip install virtualenv 
 - sudo pip install awscli --ignore-installed six
-- Install Terraform https://www.terraform
+- Install Terraform https://www.terraform.io
 
 
 # Instalation
